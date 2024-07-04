@@ -7,6 +7,5 @@ With Camerashake_helper, you can:
 🔄 Utilize loop animations for seamless effects.
 🕒 Customize the frame range to fit your specific needs.
 
-Whether you're working on VFX for film, TV, or any other medium, Camerashake_helper is designed to save you time and enhance your creative workflow.
-
-Feel free to check it out and let me know your thoughts! #FoundryNuke #VFX #Camerashake #FilmMaking #MotionGraphics
+Feel free to check it out and let me know your thoughts! 
+#FoundryNuke #VFX #Camerashake #FilmMaking #MotionGraphics
